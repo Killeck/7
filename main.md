@@ -17,7 +17,7 @@ Redrawn plan for the first floor. Reducing dead space in hallways and connectivi
 Floorplan for the basement. Not sure this will work as a substructure without proper pillars to support the 1st floor. Including a 60 square meter flat for renting on the north end of the house.
 ![Draft basement floorplan|250](https://github.com/Killeck/7/blob/master/images/floorplan0house1.JPG)
 
-[[House_Sketch_Room_Sketcher]]
+
 
 ### Research points
 
