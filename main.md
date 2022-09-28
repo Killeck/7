@@ -49,12 +49,12 @@ Danish design frameless which provides 20% more glass, less frame, more light an
 #### **Central Vacume**
 Require a solution that supports skirtingboard vents as well as standard connection points.
 
-- Flexit[^1]
+- Flexit[^o][^1]
 - Foma
 - Cyclo
 - Beam
 - Nilfisk
 
-[^*]: Avaialable in multiple colours, brand independent [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
+[^o]: Avaialable in multiple colours, brand independent [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
 [^1]: Has skirtingboard connector soluiton
 
