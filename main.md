@@ -26,8 +26,8 @@ Floorplan for the basement. Not sure this will work as a substructure without pr
 #### **Smarthouse**
 
 #### **Waterborn heating & Central heating options**
--Throught water to water AC pump, this requires a well
--Air to water AC pump
+- Water to water AC pump, this requires a well
+- Air to water AC pump
 
 **Floor heating in following rooms:**
 - Hallway
