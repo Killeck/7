@@ -40,21 +40,24 @@ Floorplan for the basement. Not sure this will work as a substructure without pr
 
 #### **Door types**
 
-
 #### **Window types**
 Danish design frameless which provides 20% more glass, less frame, more light and less heat loss. Higher invest cost.
 
 #### **Garage doors**
 
+#### **Landrychoot
+
 #### **Central Vacuum**
 Require a solution that supports skirtingboard vents as well as standard connection points.
 
-- Flexit[^1][^2]
-- Foma[^1]
-- Cyclo[^1]
-- Beam [^1]
-- Nilfisk [^1]
+- [Flexit](https://www.flexit.no/produkter/sentralstovsuger/) [^1][^2]
+- [Foma](https://foma.no/) [^1]
+- [Cyclo](http://www.cyclovac.no/cyclo-vac.html) [^1]
+- [Nilfisk](https://www.nilfisk.com/nb-no/) [^1]
+
+- [IndependentVendor](https://www.sentralstovsugersenteret.no/?gclid=CjwKCAjw4c-ZBhAEEiwAZ105RVxODhrpCNr1ZIkDqLT273lzxcDMRUZ_OnSQz8gLRerTPp7yCGWZchoCxpcQAvD_BwE) [^3]
+
 
 [^1]: Avaialable in multiple colours, brand independent [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
 [^2]: Has skirtingboard connector soluiton
-
+[^3]: Has hidden hose in wall and a variety of solutions
