@@ -9,32 +9,50 @@
 ### House Imagery
 
 My first attempt to draw up the first floor, focusing on the flow of the house as well as trying to keep as much of the property connected so that it will become a suitable playground for our kid.
+
 ![Floorplan 1st floor|250](https://github.com/Killeck/7/blob/master/images/floor1house1.JPG)
 
-Redrawn plan for the first floor. Reducing dead space in hallways and connectivity between kitchen and livingroom. Extending the 1st floor bedroom, reducing dead/waste space in livingroom, kitchen, hallway, main bedroom and connected walk-in.
+Redrawn plan for the first floor, to reduce building cost and dead space in multiple rooms (hallway, kitchen, main bedroom and connected walk-in). Extending second bedroom by reducing the internal hallway leading to the room
+
 ![Draft basement floorplan|250](https://github.com/Killeck/7/blob/master/images/floorplan1house2.JPG)
 
 Floorplan for the basement. Not sure this will work as a substructure without proper pillars to support the 1st floor. Including a 60 square meter flat for renting on the north end of the house.
+
 ![Draft basement floorplan|250](https://github.com/Killeck/7/blob/master/images/floorplan0house1.JPG)
 
 
 
 ### Research points
 
-- Smarthouse
+#### **Smarthouse**
 
-- Waterborn heating
+#### **Waterborn heating & Central heating options**
+-Throught water to water AC pump, this requires a well
+-Air to water AC pump
 
-- Central heating options
+**Floor heating in following rooms:**
+- Hallway
+- Bathroom
+- livingroom
+- Hallway WC
+- Laundryroom
+- Kitchen
 
-- Door types
-
-- Window types
-
-- Garage doors
-
-- Central Vacume
-
--  
+#### **Door types**
 
 
+#### **Window types**
+Danish design frameless which provides 20% more glass, less frame, more light and less heat loss. Higher invest cost.
+
+#### **Garage doors**
+
+#### **Central Vacume**
+Require a solution that supports floorboards vents as well as standard connection points.
+
+- Flexit^1
+- Foma
+- Cyclo
+- Beam
+- Nilfisk
+
+[^1]: Has floorboard connector soluiton
