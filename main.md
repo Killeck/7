@@ -49,7 +49,7 @@ Danish design frameless which provides 20% more glass, less frame, more light an
 #### **Central Vacume**
 Require a solution that supports floorboards vents as well as standard connection points.
 
-- Flexit^1
+- Flexit[^1]
 - Foma
 - Cyclo
 - Beam
